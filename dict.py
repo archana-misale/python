@@ -5,5 +5,3 @@ print(dict.values())
 dict.update({"harry":100,"vidya":78})
 print(dict)
 """
-a='#@rhaAgAsTyA2016'
-print(len(a))
