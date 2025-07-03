@@ -3,6 +3,7 @@ You are selected.
 <|Date|>"""
 print(letter.replace("<|Name|>","Archana").replace("<|Date|>","16th June 2025"))
 
+#append in the list
 fruits=[]
 f1=input("Enter the fruit name:")
 fruits.append(f1)
