@@ -1,8 +1,7 @@
-def greet(name,ending):
+def greet(name):
     gr=("Good day,"+ name)
-    en=(ending)
-    return gr,en
+    return gr
    
 
-a=greet('Archana','Sweet girl')
+a=greet('Ashwini')
 print(a)
